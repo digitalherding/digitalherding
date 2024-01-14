@@ -1,3 +1,4 @@
+// Personal Info JSON Data
 fetch("/resources/data/data.json")
   .then((response) => response.json())
   .then((data) => {
