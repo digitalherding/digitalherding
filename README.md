@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Aaron. I have been designing for the web since 2002 and I have been developing for the web since 2008.
+
 <!--
 **digitalherding/digitalherding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
